@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Domingues%20Pereira-0047ab?style=flat-square&labelColor=0E76A8&logo=Linkedin&logoColor=white&link=ttps://www.linkedin.com/in/vinicius-domingues-pereira-3a2805167/)](https://www.linkedin.com/in/vinicius-domingues-pereira-3a2805167/)
 [![GMail Badge](https://img.shields.io/badge/-vinipereira09@gmail.com-0047ab?style=flat-square&&labelColor=4682b4&logo=Gmail&logoColor=white&link=mailto:vinipereira09@gmail.com)](mailto:vinipereira09@gmail.com)
 
-Eu me chamo Vinicius Domingues Pereira e sou aluno do curso de TSI (Curso de Graduação de Tecnologia em Sistemas para Internet) da Universidade Tecnológica Federal do Paraná - UTFPR-GP
+Eu me chamo Vinicius Domingues Pereira e sou aluno do curso de TSI (Curso de Graduação de Tecnologia em Sistemas para Internet) da Universidade Tecnológica Federal do Paraná - UTFPR
 
 
 Aprecie com moderação! 🙂
