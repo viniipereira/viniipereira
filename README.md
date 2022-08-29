@@ -12,7 +12,7 @@ Aprecie com moderação! 🙂
 
 Estas são as tecnologias e ferramentas que faço uso:
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Java]([https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white))
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
