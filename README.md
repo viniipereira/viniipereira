@@ -2,7 +2,7 @@
 
 [![Youtube: ronibanaszewski](https://img.shields.io/badge/-ronibanaszewski-0047ab?style=flat-square&labelColor=red&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCBzU4Z1HvVYYzzuN7u4ZPZA)](https://www.youtube.com/channel/UCBzU4Z1HvVYYzzuN7u4ZPZA)
 [![Twitter Badge](https://img.shields.io/badge/-@ronifabio-0047ab?style=flat-square&labelColor=00ACEE&logo=twitter&logoColor=white&link=https://twitter.com/ronifabio)](https://twitter.com/ronifabio) 
-[![Linkedin Badge](https://img.shields.io/badge/-Roni%20Fabio%20Banaszewski-0047ab?style=flat-square&labelColor=0E76A8&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronifabio/)](https://www.linkedin.com/in/ronifabio/)
+[![Linkedin Badge](https://img.shields.io/badge/-Roni%20Fabio%20Banaszewski-0047ab?style=flat-square&labelColor=0E76A8&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronifabio/)]([https://www.linkedin.com/in/ronifabio/](https://www.linkedin.com/in/vinicius-domingues-pereira-3a2805167/))
 [![Instagram Badge](https://img.shields.io/badge/-@roni.banaszewski-0047ab?style=flat-square&labelColor=993399&logo=Instagram&logoColor=white&link=https://www.instagram.com/roni.banaszewski/)](https://www.instagram.com/roni.banaszewski/)
 [![GMail Badge](https://img.shields.io/badge/-banaszewski@utfpr.edu.br-0047ab?style=flat-square&&labelColor=4682b4&logo=Gmail&logoColor=white&link=mailto:banaszewski@utfpr.edu.br)](mailto:banaszewski@utfpr.edu.br)
 [![Site Badge](https://img.shields.io/badge/-https://ronifabio.github.io-4285F4?style=flat-square&labelColor=00ACEE&logo=google-cloud&logoColor=white&link=https://ronifabio.github.io/)](https://ronifabio.github.io/)
