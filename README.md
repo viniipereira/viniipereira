@@ -1,4 +1,4 @@
-# Oi! Eu sou o Roni! 👋
+# Oi! Eu sou o Vini! 👋
 
 [![Youtube: ronibanaszewski](https://img.shields.io/badge/-ronibanaszewski-0047ab?style=flat-square&labelColor=red&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCBzU4Z1HvVYYzzuN7u4ZPZA)](https://www.youtube.com/channel/UCBzU4Z1HvVYYzzuN7u4ZPZA)
 [![Twitter Badge](https://img.shields.io/badge/-@ronifabio-0047ab?style=flat-square&labelColor=00ACEE&logo=twitter&logoColor=white&link=https://twitter.com/ronifabio)](https://twitter.com/ronifabio) 
@@ -7,11 +7,8 @@
 [![GMail Badge](https://img.shields.io/badge/-banaszewski@utfpr.edu.br-0047ab?style=flat-square&&labelColor=4682b4&logo=Gmail&logoColor=white&link=mailto:banaszewski@utfpr.edu.br)](mailto:banaszewski@utfpr.edu.br)
 [![Site Badge](https://img.shields.io/badge/-https://ronifabio.github.io-4285F4?style=flat-square&labelColor=00ACEE&logo=google-cloud&logoColor=white&link=https://ronifabio.github.io/)](https://ronifabio.github.io/)
 
-Eu me chamo Roni Fabio Banaszewski e sou Professor do curso de TSI (Curso de Graduação de Tecnologia em Sistemas para Internet) da Universidade Tecnológica da Paraná - UTFPR desde 2015. 
+Eu me chamo Vinicius Domingues Pereira e sou aluno do curso de TSI (Curso de Graduação de Tecnologia em Sistemas para Internet) da Universidade Tecnológica da Paraná - UTFPR-GP
 
-Sou formado em Análise de Sistemas e possuo mestrado e doutorado na área de Engenharia da Computação. Sou apaixonado por criar, resolver problemas e principalmente, ensinar o que aprendo!
-
-Por aqui você encontrará alguns repositórios com projetos pessoais e profissionais, os quais estarão em sua maioria disponibilizados na organização [https://github.com/utfpr-gp](https://github.com/utfpr-gp).
 
 Aprecie com moderação! 🙂
 
